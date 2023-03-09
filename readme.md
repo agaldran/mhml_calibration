@@ -6,7 +6,7 @@ Multi-Head Multi-Loss Model Calibration
 Adrian Galdran, Johan Verjans, Gustavo Carneiro, and Miguel A. González Ballester
 Under review, fingers crossed, 2023
 ```
-The paper is in arXiv, you can get it at this [link](google.com).
+The paper is in arXiv, you can get it at this [link](https://arxiv.org/abs/2303.01099).
 
 ## What's the deal? Quick Explanation
 We found that if one replaces the single prediction branch in a classifier by several branches, and then trains the model 
